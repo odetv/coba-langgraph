@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langgraph
+langchain-core
+langchain-openai
+langchain-community
+typing-extensions
+python-multipart
+pypdf
